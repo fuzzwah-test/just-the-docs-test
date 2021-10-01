@@ -1,28 +1,6 @@
 title: Test
 
 source: ./docs
-baseurl: "/docs"
-url: ""
-
-kramdown:
-  input: GFM
-  gfm_quirks: no_auto_typographic
 
 remote_theme: pmarsceill/just-the-docs
 
-plugins:
-  - jekyll-coffeescript
-  - jekyll-default-layout
-  - jekyll-gist
-  - jekyll-github-metadata
-  - jekyll-optional-front-matter
-  - jekyll-paginate
-  - jekyll-readme-index
-  - jekyll-titles-from-headings
-  - jekyll-relative-links
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - README.md
