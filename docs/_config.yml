@@ -2,7 +2,7 @@ title: Test
 
 source: ./docs
 baseurl: "/docs"
-url: "https://fuzzwah.github.io/just-the-docs-test"
+url: ""
 
 kramdown:
   input: GFM
